@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=what-is-me&layout=compact&theme=onedark)](https://github.com/what-is-me)
 <br>
 ### Pinned Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=what-is-me&repo=wordlisttranslate&theme=onedark)](https://github.com/what-is-me/wordlisttranslate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=what-is-me&repo=WordListEnquiry&theme=onedark)](https://github.com/what-is-me/WordListEnquiry)
