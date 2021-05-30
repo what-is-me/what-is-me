@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 <br>
 # Pinned Projects:
 ## English Learning:
-    - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=what-is-me&repo=WordListEnquiry&theme=onedark)](https://github.com/what-is-me/WordListEnquiry)
-    - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=what-is-me&repo=FastEnglishLearn&theme=onedark)](https://github.com/what-is-me/FastEnglishLearn)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=what-is-me&repo=WordListEnquiry&theme=onedark)](https://github.com/what-is-me/WordListEnquiry)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=what-is-me&repo=FastEnglishLearn&theme=onedark)](https://github.com/what-is-me/FastEnglishLearn)
