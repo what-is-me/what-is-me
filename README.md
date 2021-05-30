@@ -1,6 +1,6 @@
-## Hi there 👋
-### I am [Leo·Cai](https://github.com/what-is-me)
-### This is my Homepage: [Page](https://what-is-me.github.io/)
+# Hi there 👋
+## I am [Leo·Cai](https://github.com/what-is-me)
+## This is my Homepage: [Page](https://what-is-me.github.io/)
 <!--
 **what-is-me/what-is-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,5 +25,7 @@ Here are some ideas to get you started:
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=what-is-me&layout=compact&theme=onedark)](https://github.com/what-is-me)
 <br>
-### Pinned Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=what-is-me&repo=WordListEnquiry&theme=onedark)](https://github.com/what-is-me/WordListEnquiry)
+# Pinned Projects:
+## English Learning:
+    - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=what-is-me&repo=WordListEnquiry&theme=onedark)](https://github.com/what-is-me/WordListEnquiry)
+    - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=what-is-me&repo=FastEnglishLearn&theme=onedark)](https://github.com/what-is-me/FastEnglishLearn)
