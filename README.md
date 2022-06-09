@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying in [USST](https://www.usst.edu.cn/)
 - 🌱 I’m currently learning c/c++,Java,python
 - 📫 How to reach me: 
-  | E-mail: |leo.cai.nantong.china@gmail.com|
+  | E-mail: |whatisme@outlook.jp|
   |---------|-------------------------------|
   | Twiter: |@LeoCai_iiiiiiii               |
 <!--
