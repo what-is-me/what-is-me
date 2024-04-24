@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=what-is-me&show_icons=true&theme=gruvbox" alt="github stats"/>
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=what-is-me&layout=donut&langs_count=5&theme=gruvbox" alt="most use language"/>
+<img height="170px" src="https://github-readme-activity-graph.vercel.app/graph?username=what-is-me&theme=gruvbox" alt="contributions graph"/>
+</div>
