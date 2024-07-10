@@ -6,10 +6,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently studying in [USST](https://www.usst.edu.cn/)
+- 🔭 I’m currently studying in [NEU](https://www.neu.edu.cn/)
 - 🌱 I’m currently learning c/c++,Java,python
 - 📫 How to reach me: 
-  | E-mail: |whatisme@outlook.jp|
+  | E-mail: |whatisme@outlook.jp            |
   |---------|-------------------------------|
   | Twiter: |@LeoCai_iiiiiiii               |
 <!--
